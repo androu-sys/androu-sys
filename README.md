@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Androu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">I'm a passionate programmer with expertise in various areas such as Data Science, Web development, and Telegram bot development. I'm open to any exciting projects that come my way. My primary programming language is Python, and I have extensive experience in Git, asynchronous programming, Django, and aiogram.</h4>
+<h4 align="center">I'm a passionate programmer with expertise in Data Science. I'm open to any exciting projects that come my way. My primary programming language is Python, and I have extensive experience in Git, asynchronous programming, Django.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -13,22 +13,6 @@
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
 
@@ -66,3 +50,18 @@
 
 <br/>
 
+### 👉 Other Stuff
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+</p>
